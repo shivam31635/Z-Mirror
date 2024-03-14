@@ -3,12 +3,10 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 ## Deploy on Heroku
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://gitlab.com/Dawn-India/Z-Mirror/-/tree/hr_deploy?ref_type=heads#deploy-to-heroku)
+[![Deploy on Heroku]([https://colab.research.google.com/drive/1F-U_vHcW905bbg-r0XVErqr2xBmcCWVo?usp=sharing#scrollTo=wywoOi0VQ-xZ))
 
-## Deploy on Railway
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://gitlab.com/Dawn-India/Z-Mirror/-/tree/hr_deploy?ref_type=heads#deploy-to-railway)
-
+## database
+mongodb+srv://Leecher:Leecher@cluster0.7bxmmq8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 # Available features in this REPO:
 
